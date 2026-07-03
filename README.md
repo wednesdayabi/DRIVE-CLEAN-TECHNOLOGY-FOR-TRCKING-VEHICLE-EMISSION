@@ -71,45 +71,8 @@ Drive Clean is an IoT-based vehicle emission monitoring system developed to mode
 7. A digital PUC certificate is generated.
 8. Users can retrieve and download their certificate through the web portal. :contentReference[oaicite:2]{index=2}
 
----
-
-## 📂 Project Structure
 
 ```
-DRIVE-CLEAN
-│
-├── Django_Server/
-├── ESP32_Code/
-├── Images/
-├── Documentation/
-├── Videos/
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 📸 Project Images
-
-*(Upload your project photos inside the Images folder.)*
-
----
-
-## 🎥 Demo Video
-
-Add your Google Drive or YouTube link here.
-
-Example:
-
-https://drive.google.com/your-demo-video-link
-
----
-
-## 📄 Project Report
-
-Upload your project report inside the Documentation folder or provide the link here.
-
----
 
 ## 👨‍💻 Developed By
 
@@ -117,7 +80,7 @@ Abinesh K
 
 Electronics and Communication Engineering
 
-K.L.N College of Engineering
+Kamaraj college of Engineering and technology
 
 ---
 
